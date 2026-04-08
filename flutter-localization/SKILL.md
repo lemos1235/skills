@@ -4,7 +4,7 @@ description: "Configure your Flutter app to support different languages and regi
 metadata:
   model: "models/gemini-3.1-pro-preview"
   last_modified: "Tue, 03 Mar 2026 18:07:09 GMT"
-
+disable-model-invocation: true
 ---
 # Flutter Localization Setup
 

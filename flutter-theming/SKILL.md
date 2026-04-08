@@ -4,7 +4,7 @@ description: "How to customize your app's theme using Flutter's theming system"
 metadata:
   model: "models/gemini-3.1-pro-preview"
   last_modified: "Fri, 27 Feb 2026 00:26:31 GMT"
-
+disable-model-invocation: true
 ---
 ## Goal
 Updates and manages Flutter application styling by migrating legacy Material 2 implementations to Material 3, normalizing component themes, updating deprecated button classes, and adapting UI idioms for cross-platform consistency. Assumes a Flutter environment using Dart.

@@ -1,7 +1,6 @@
 ---
 name: code-review
 description: Common guidelines, persona and critical constraints for performing high-quality code reviews. Use this skill when reviewing code changes or before creating a git commit.
-user-invokable: false
 ---
 
 # Code Review

@@ -4,7 +4,7 @@ description: "Build a Flutter plugin that provides native interop for other Flut
 metadata:
   model: "models/gemini-3.1-pro-preview"
   last_modified: "Wed, 04 Mar 2026 21:07:42 GMT"
-
+disable-model-invocation: true
 ---
 # flutter-plugin-generator
 
